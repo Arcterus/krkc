@@ -1,0 +1,1 @@
+import gui; // dynamically load /usr/lib/libgui.so and load header /usr/include/krcc/gui.h
